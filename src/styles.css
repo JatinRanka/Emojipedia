@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  width: 60%;
+  padding: 0.5rem 1rem;
+  font-size: 2rem;
+}
+
+.list-of-emojis {
+  width: 600px;
+  margin: auto;
+}
+
+span {
+  display: inline-block;
+  margin: 1rem;
+  cursor: pointer;
+  font-size: 2rem;
+}
